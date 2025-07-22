@@ -31,7 +31,7 @@ An interactive shell script for building LXC containers with guided prompts, liv
 ### 🚀 Quick Start
 
 ```bash
-bash -c "$(curl -fsSL https://github.com/Burlowcraft/lxc-creation/blob/main/script/create-container.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Burlowcraft/lxc-creation/main/script/create-container.sh)"
 ```
 
 You'll be guided through:
